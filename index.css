@@ -1,0 +1,45 @@
+#body{
+  background-image: url(http://www.stratacloud.com/wp-content/uploads/2015/11/cloud-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#header{
+  color : midnightblue;
+  text-align: center;
+  font-family: fantasy;
+  padding-top: 2%
+}
+
+#display{
+  color: midnightblue;
+  font-style: italic;
+  text-align: center;
+  padding: 2%
+}
+
+.quote{
+  font-size: 30px
+}
+
+.author{
+  font-size: 20px
+}
+
+#button{
+  text-align: center;
+}
+
+
+#newQuote{
+  text-align: center;
+  color: darkblue;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+#footer{
+  text-align: center;
+  padding: 10px 10px
+}
